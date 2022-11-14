@@ -1,5 +1,4 @@
-
-
 #!/usr/bin/env bash
-# A script that displays it's own PID
+# Displays its own PID.
+
 echo $$
